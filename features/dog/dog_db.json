@@ -1,41 +1,132 @@
 {
-    "e22882f6-4bf6-4d1f-beb3-e3464d90b997": {
-        "id": "e22882f6-4bf6-4d1f-beb3-e3464d90b997",
-        "name": "string",
+    "e9fef8b5-beb7-485b-90d2-64b368b8e2b2": {
+        "id": "e9fef8b5-beb7-485b-90d2-64b368b8e2b2",
+        "created_at": "2025-03-15T23:15:39.637733Z",
+        "name": "Buddy",
         "breed": "Labrador Retriever",
-        "color": "string",
-        "age": 0,
+        "color": "Yellow",
+        "age": 5,
         "sex": "m",
-        "description": "string"
+        "description": "Friendly and energetic"
     },
-    "43c9f45a-343f-482f-850e-8b9b27ae27af": {
-        "id": "43c9f45a-343f-482f-850e-8b9b27ae27af",
-        "created_at": "2025-03-15T22:25:44.441584Z",
-        "name": "FIDO",
+    "03ae5601-f3ae-453b-bac4-3264d9f8090f": {
+        "id": "03ae5601-f3ae-453b-bac4-3264d9f8090f",
+        "created_at": "2025-03-15T23:15:51.425798Z",
+        "name": "Max",
         "breed": "Beagle",
-        "color": "string",
+        "color": "Tri-color",
+        "age": 3,
+        "sex": "f",
+        "description": "Loyal and curious"
+    },
+    "b2992e80-0f31-48ed-a087-032c7be30d0a": {
+        "id": "b2992e80-0f31-48ed-a087-032c7be30d0a",
+        "created_at": "2025-03-15T23:15:57.362683Z",
+        "name": "Bella",
+        "breed": "Bulldog",
+        "color": "Brindle",
+        "age": 4,
+        "sex": "s",
+        "description": "Calm and affectionate"
+    },
+    "632d9cb3-11b8-4d33-acf7-9bd9a26a5709": {
+        "id": "632d9cb3-11b8-4d33-acf7-9bd9a26a5709",
+        "created_at": "2025-03-15T23:16:04.375246Z",
+        "name": "Charlie",
+        "breed": "Poodle",
+        "color": "White",
+        "age": 2,
+        "sex": "n",
+        "description": "Playful and smart"
+    },
+    "bed355d6-cd57-41a8-95e0-2a948d25e798": {
+        "id": "bed355d6-cd57-41a8-95e0-2a948d25e798",
+        "created_at": "2025-03-15T23:16:10.456097Z",
+        "name": "Rocky",
+        "breed": "German Shepherd",
+        "color": "Black and Tan",
+        "age": 6,
+        "sex": "u",
+        "description": null
+    },
+    "6d57a72f-10c5-47d3-b722-5402ee377f47": {
+        "id": "6d57a72f-10c5-47d3-b722-5402ee377f47",
+        "created_at": "2025-03-15T23:16:24.056693Z",
+        "name": "Buddy",
+        "breed": "Labrador Retriever",
+        "color": "Yellow",
+        "age": 5,
+        "sex": "m",
+        "description": "Friendly and energetic"
+    },
+    "f772ca00-0dc9-47be-ae60-46b7c5072b54": {
+        "id": "f772ca00-0dc9-47be-ae60-46b7c5072b54",
+        "created_at": "2025-03-15T23:16:34.579124Z",
+        "name": "Bella",
+        "breed": "Bulldog",
+        "color": "Brindle",
+        "age": 4,
+        "sex": "s",
+        "description": "Calm and affectionate"
+    },
+    "742dc0a7-0701-485d-9080-6f6280c58fab": {
+        "id": "742dc0a7-0701-485d-9080-6f6280c58fab",
+        "created_at": "2025-03-15T23:16:49.835451Z",
+        "name": "Oscar",
+        "breed": "Bulldog",
+        "color": "Fawn",
+        "age": 5,
+        "sex": "n",
+        "description": "Affectionate and loves to sleep"
+    },
+    "b6080830-c321-4a8b-958d-d7056f1e1211": {
+        "id": "b6080830-c321-4a8b-958d-d7056f1e1211",
+        "created_at": "2025-03-15T23:16:55.568296Z",
+        "name": "Sadie",
+        "breed": "Poodle",
+        "color": "Black",
+        "age": 7,
+        "sex": "s",
+        "description": "Very elegant and well-trained"
+    },
+    "fe76313e-20e4-408e-94dd-f56496ec00c0": {
+        "id": "fe76313e-20e4-408e-94dd-f56496ec00c0",
+        "created_at": "2025-03-15T23:17:03.314960Z",
+        "name": "Maximus",
+        "breed": "German Shepherd",
+        "color": "Gray and Black",
         "age": 3,
         "sex": "m",
-        "description": "a good ol boy"
+        "description": "Loyal, protective, and great with kids"
     },
-    "9fe4b877-597a-475b-8ecf-33425536ef3b": {
-        "id": "9fe4b877-597a-475b-8ecf-33425536ef3b",
-        "created_at": "2025-03-15T22:26:02.025838Z",
-        "name": "fizzbuzzy",
-        "breed": "Beagle",
-        "color": "string",
-        "age": 6,
-        "sex": "f",
-        "description": "a good ol doggo"
-    },
-    "bb238202-eea4-46ee-ae98-035370086b65": {
-        "id": "bb238202-eea4-46ee-ae98-035370086b65",
-        "created_at": "2025-03-15T22:26:27.129322Z",
-        "name": "foobarz",
+    "ccf9bd19-ade6-4cd3-84e9-9b3a19771e54": {
+        "id": "ccf9bd19-ade6-4cd3-84e9-9b3a19771e54",
+        "created_at": "2025-03-15T23:17:09.440735Z",
+        "name": "Molly",
         "breed": "Labrador Retriever",
-        "color": "string",
-        "age": 10,
+        "color": "Golden",
+        "age": 1,
         "sex": "f",
-        "description": "she be old yo"
+        "description": "Lively and loves to fetch"
+    },
+    "23ff25ad-d9ff-4a63-b03f-b2de02c61cc6": {
+        "id": "23ff25ad-d9ff-4a63-b03f-b2de02c61cc6",
+        "created_at": "2025-03-15T23:17:14.695597Z",
+        "name": "Luna",
+        "breed": "Bulldog",
+        "color": "White",
+        "age": 6,
+        "sex": "n",
+        "description": "Gentle and loves attention"
+    },
+    "a0614605-81d9-45e4-9127-429b572632e0": {
+        "id": "a0614605-81d9-45e4-9127-429b572632e0",
+        "created_at": "2025-03-15T23:17:19.799084Z",
+        "name": "Riley",
+        "breed": "German Shepherd",
+        "color": "Tan and Black",
+        "age": 2,
+        "sex": "u",
+        "description": "Friendly and always alert"
     }
 }

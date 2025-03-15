@@ -57,7 +57,7 @@ async def get_dog(
                 status_code=status.HTTP_404_NOT_FOUND,
                 detail=f"The dog you are looking for with id={dog_id} is not found!"
             )
-        return await dog.model_dump()
+        return dog.model_dump()
     except Exception as e:
         logger.error("Error processing a: {}", str(e))
         raise e
